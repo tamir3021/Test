@@ -4,6 +4,7 @@ import {Component} from '@angular/core';
   selector: 'app-root',
   template: `
     Welcome to Angular!!!!!
+    
   `,
 })
 export class App {}
